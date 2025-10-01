@@ -42,7 +42,7 @@ python = "^3.11.9"
 
 typer = {extras = ["all"], version = "^0.4.0"}
 rich = "^10.14.0"
-nuitka = "^2.7.12"
+nuitka = "^2.7.16"
 bokeh = "^3.7.3"
 
 [tool.poetry.group.dev.dependencies]
